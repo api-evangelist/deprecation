@@ -28,8 +28,6 @@ title: API Deprecation
               <li><a href="{{ post.source }}">{{ post.title }}</a></li>
             {% elsif amount == '4' %}
               <li><a href="{{ post.source }}">{{ post.title }}</a></li>
-            {% elsif amount == '5' %}
-              <li><a href="{{ post.source }}">{{ post.title }}</a></li>
             {% endif %}
 
             {% capture amount %}{{ amount | plus: '1' }}{% endcapture %}
@@ -49,7 +47,7 @@ title: API Deprecation
               var el = $(this);
               $title = el.find("title").text();
               $link = el.find("link").text();
-              if($listcount<2){
+              if($listcount<4){
                 $listitem = '<li><a href="' + $link + '">' + $title + '</a></li>';
                 $('#rssNews').append($listitem);
                 }
