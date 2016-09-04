@@ -27,7 +27,7 @@ feature_image_source: https://s3.amazonaws.com/kinlane-productions/whitepapers/a
 feature_image_width: 40
 
 # Project
-project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-deprecation.png
+project_image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-deprecation-2.png
 project_summary: The deprecation of APIs are an inevitable thing. Some providers are better at doing it than others. Sometimes it happens after an acquisition, or often when a company runs out of money. This is my research into the deprecations that have occurred, and my attempt to understand some of the common elements that make API deprecation easier for both providers and consumers.
 
 # Navigation
