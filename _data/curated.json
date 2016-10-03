@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "s50bHgHB0XVcOGhxGODnw8OBrQCeWQyzuHed116M0Ii61OTLdVGwK7sQUhMhGUhzLO6F1oqvoXhTcglXAcdFBmeQ117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Saying Goodbye to the GData Admin Settings API",
+		"url": "https://gsuite-developers.googleblog.com/2016/08/saying-goodbye-to-gdata-admin-settings.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wrzTtp1y123cnnoZ8iyfkgYYBPmfoiQh6GCxTLflg7wnDkkXJNemX1xeE20DGDmF2eG3JqsbMclOe4427HZJfUow117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Reminder Turn down of Google Drive web hosting coming soon",
+		"url": "https://gsuite-developers.googleblog.com/2016/07/reminder-turn-down-of-google-drive-web.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QwdAYQtiINrCKTsHQOu4TGDksnx0PT8s98YyewFtt7PFedJaftQSC11MIekIO5116gtfg8VVimQ0LpNg53PXGP0A117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Saying goodbye to OAuth 10 2LO",
+		"url": "https://gsuite-developers.googleblog.com/2016/04/saying-goodbye-to-oauth-10-2lo.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "gvCRRvpvaT2m7V9xjWF7RhI3xfte1aV1sPmNN0D8UkaFmDLMKK70qu4yfZhuuDQh2s7mH1161EFvaFAf116AwAWEiQ117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Shutter falls on lifelogging camera startup Narrative",
+		"url": "http://www.bbc.co.uk/news/technology-37497900",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "qfAO4OGtmOMY1MDtuRXGrAfkOfZx503116RTkfvU6qDzO6SI2qP116cWARO3XCGuXdq5gWpjJajAtr3TUS5pfML7vw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Readability Sunset",
+		"url": "http://blog.netvibes.com/blog/readability-sunset/",
+		"domain": "blog.netvibes.com",
+		"image": ""
+	},
+	{
 		"curated_id": "25Q4dMe2ihhe1TPIotBGjreT7xgWlZMWHcKaXwBPYyPwQskCVCqO5IBX7zTgzVSnW4FyXoM4fNhhMg5gaZl5xg117117",
 		"item_date": "2016-09-20 00:00:00",
 		"title": "Pogoplug Cloud is Shutting Down",
