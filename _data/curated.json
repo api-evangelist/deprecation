@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "gwbGv1BSCm1230u9KBf123319063I7TAyBBW1234116Nxqgxydv4elcSnqTjSRTNctytmPbLa2noSCx0HOngDen2GOlvYA117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "A Parse Shutdown Reminder",
+		"url": "http://blog.parse.com/announcements/a-parse-shutdown-reminder/",
+		"domain": "blog.parse.com",
+		"image": ""
+	},
+	{
+		"curated_id": "iJjBDdVG13IVKdIfgBR8VYEO0FyFHOYHVIK9iFw6EXSO39fa11678123OzZvaCC9aoaswm6Vd7YFU6O2tQYP123WTwdA117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Twitter loops all videos under 65 seconds as Vine shrivels into a camera",
+		"url": "https://techcrunch.com/2017/01/17/tvine/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116I8Lz116LnhajCKsb1230OjY2mNhVQmNJ9116MwA731236M1116042fpHGWG4Y8s116mJC25s7UrPvLl123F5MNY9116vXzmRfOe4A117117",
+		"item_date": "2017-01-17 00:00:00",
+		"title": "Twitter is phasing out the Buy button will continue to offer donations",
+		"url": "https://techcrunch.com/2017/01/17/bye-buy-on-twitter/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
 		"curated_id": "XFB0b5itdJLHUm6aKMLnwwy9qhRHMGKRQX2O0x1NzDfbNxHIVXgkIHt1Vxiz8kxZwPXvQLAtogga9ngVhz2E123g117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "Best Practices with API Deprecation",
