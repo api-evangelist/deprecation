@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "116lSmO5SeA9123lEkNzL4LkNEOmPgxp123kXcSjaP1akel2zG1vZDtGJazY3Ol3iliBkcEIXCq123iu123gskLR7FBveU3A117117",
+		"item_date": "2017-02-28 00:00:00",
+		"title": "Google IMA Ends Flash in 2017",
+		"url": "https://www.jwplayer.com/blog/no-more-flash-ima/",
+		"domain": "www.jwplayer.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fLz709TqOKgJ1PnKbdKlKxMhOFa65XmNiSEIVmI7M3YO9Dplv1HXFmMumJrNdIWX5nPdIKEoYcadxBG1tuQlFA117117",
+		"item_date": "2017-03-02 00:00:00",
+		"title": "Deprecating Flash in the IMA SDKs",
+		"url": "http://googleadsdeveloper.blogspot.com/2017/01/deprecating-flash-in-ima-sdks.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "123cRycIpAWZobPFnrMd90116D116359UpjM3123NSOCzsUTGv4EguY2nkUCg4rJeDKRtwGGU1XxhudQVjVLn4WK9C51169w117117",
+		"item_date": "2017-03-02 00:00:00",
+		"title": "DCMDFA Reporting and Trafficking API sunset reminder",
+		"url": "http://googleadsdeveloper.blogspot.com/2017/02/dcmdfa-reporting-and-trafficking-api.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Jdi2vGYu2l74NCgAYeqRA123W4eYZfQQCcDlPjPUNjZiWpp5fHBXWgbZ45cK8GWXMnwcYdmYDtv2alS2Xs8dOJCA117117",
+		"item_date": "2017-03-02 00:00:00",
+		"title": "Final days for migrating AdWords ads from Flash to HTML5",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/12/final-days-for-migrating-adwords-ads.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
 		"curated_id": "eHfGb116tKtrlvZpY123KwNgl116JFO7PSJFdhe123vBCpC5ubKLOcZwmChN116vLCj6jufhh8r123KsY77a3Gk3DZA47EId5w117117",
 		"item_date": "2017-02-22 00:00:00",
 		"title": "Yelp Updates Fusion API Signals the End of Legacy API",
