@@ -1,236 +1,4 @@
 ---
-- curated_id: 0076d3e77c87f237f553acd1122e76c0
-  item_date: "2012-04-20 00:00:00"
-  title: 'Google Developers Blog: Changes to deprecation policies and API spring cleaning'
-  url: https://developers.googleblog.com/2012/04/changes-to-deprecation-policies-and-api.html
-  domain: developers.googleblog.com
-  image: ""
-- curated_id: df17bb51913c4910b54d3368fe99fdf2
-  item_date: "2012-07-20 00:00:00"
-  title: Google Announces New, Simpler API Deprecation Policies
-  url: http://thenextweb.com/google/2012/04/20/googles-spring-cleaning-continues-with-new-simpler-api-deprecation-policies/#gref
-  domain: thenextweb.com
-  image: ""
-- curated_id: 13eab1da7143034ec79e3d99a6060c97
-  item_date: "2012-09-05 20:47:40"
-  title: New Twitter API Drops Support for RSS, Puts Limits on Third-Party Clients
-  url: http://mashable.com/2012/09/05/twitter-api-rss/
-  domain: mashable.com
-  image: ""
-- curated_id: be23836c90907521564473ac3ff2e534
-  item_date: "2013-03-08 00:00:00"
-  title: An update on the Geocoding API V2 deprecation
-  url: http://googlegeodevelopers.blogspot.com/2013/03/an-update-on-geocoding-api-v2.html
-  domain: googlegeodevelopers.blogspot.com
-  image: ""
-- curated_id: 324a7073b0ed55bb52d34f1b10b6a7a9
-  item_date: "2013-03-09 10:20:19"
-  title: Netflix kills third party app platform, current apps will continue to work
-  url: http://www.theverge.com/2013/3/8/4081336/netflix-kills-third-party-app-platform-current-apps-will-continue-to
-  domain: www.theverge.com
-  image: ""
-- curated_id: 5f9061608de7377eeddbb310c80b0d22
-  item_date: "2013-03-13 16:54:15"
-  title: 'Official Google Reader Blog: Powering Down Google Reader'
-  url: http://googlereader.blogspot.com/2013/03/powering-down-google-reader.html
-  domain: googlereader.blogspot.com
-  image: ""
-- curated_id: 9350bc5bb02898c36291e199f968b41c
-  item_date: "2013-04-16 00:00:00"
-  title: New York State Legislature API Deprecated
-  url: http://open.blogs.nytimes.com/2013/04/16/new-york-state-legislature-api-deprecated/
-  domain: open.blogs.nytimes.com
-  image: ""
-- curated_id: b806abdda9b71b9440a500d8b57b2c47
-  item_date: "2013-04-19 00:00:00"
-  title: Change for a Yahoo! Developer Network (YDN) Offering
-  url: https://developer.yahoo.com/blogs/ydn/change-for-a-yahoo--developer-network--ydn--offering-171022274.html
-  domain: developer.yahoo.com
-  image: ""
-- curated_id: 952fa6ae2f78c62f28f390cbc29c033d
-  item_date: "2013-04-19 00:00:00"
-  title: Twitter sets a May 7th kill date for TweetDeck Android, iPhone, AIR and Facebook
-    integration
-  url: http://thenextweb.com/twitter/2013/04/19/twitter-sets-a-may-7th-kill-date-for-tweetdeck-android-iphone-air-and-facebook-integration/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 00e02a8c1304c41825f7255515c12a9a
-  item_date: "2013-04-22 00:00:00"
-  title: Yahoo Kills Upcoming, Archive Team Saves the Day
-  url: http://www.wired.com/2013/04/yahoo-shutters-upcoming-archive-team-saves-the-day/
-  domain: www.wired.com
-  image: ""
-- curated_id: 3d95ca90d4769669f603d71dc5f6a9d5
-  item_date: "2013-05-03 00:00:00"
-  title: API v1 Retirement Date Extended to June 11, 2013
-  url: https://dev.twitter.com/blog/api-v1-retirement-date-extended-to-june-11
-  domain: dev.twitter.com
-  image: ""
-- curated_id: 2d1e02f38fc09f64896ffcaa1d3745e4
-  item_date: "2013-05-03 00:00:00"
-  title: A few ideas for protecting your company against vanishing cloud services
-  url: https://gigaom.com/2013/05/03/a-few-ideas-for-protecting-your-company-against-vanishing-cloud-services/
-  domain: gigaom.com
-  image: ""
-- curated_id: c98f8dd4390c64be3b0e57dbf612c25b
-  item_date: "2013-06-11 12:51:42"
-  title: Frequently Asked Questions | Twitter Developers
-  url: https://dev.twitter.com/docs/faq#17750
-  domain: dev.twitter.com
-  image: ""
-- curated_id: 1a80f9b5195447df20b8f64248222113
-  item_date: "2013-06-20 00:00:00"
-  title: Netvibes Opens a New Home for Google Reader and iGoogle Users
-  url: http://blog.netvibes.com/netvibes-opens-a-new-home-for-google-reader-and-igoogle-users/
-  domain: blog.netvibes.com
-  image: ""
-- curated_id: 8b580de5f140848377cd9f8f570a7bc6
-  item_date: "2013-06-28 00:00:00"
-  title: Changes for a few Yahoo! Developer Network (YDN) offerings
-  url: http://developer.yahoo.com/blogs/ydn/changes-few-yahoo-developer-network-ydn-offerings-175243915.html
-  domain: developer.yahoo.com
-  image: ""
-- curated_id: b023ad0ac2116f5e2b790a61b3223da7
-  item_date: "2013-06-28 00:00:00"
-  title: Most Popular APIs That Are No More
-  url: http://www.programmableweb.com/2013/06/28/most-popular-apis-that-are-no-more/
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: e0f1da827f7e68d9071d6f01a82b8ce7
-  item_date: "2013-07-09 00:00:00"
-  title: 33 Google APIs That Are No More
-  url: http://www.programmableweb.com/news/33-google-apis-are-no-more/2013/07/09
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 15eba5909134568e8713cc9e430cb610
-  item_date: "2013-07-12 00:00:00"
-  title: Say Goodbye to Google Latitude, Service to be Shut Down August 9
-  url: http://www.programmableweb.com/news/say-goodbye-to-google-latitude-service-to-be-shut-down-august-9/2013/07/12
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: f4f378daa4a02dd5eb4f4f550c2964db
-  item_date: "2013-08-05 00:00:00"
-  title: Closing down our older version of creating events
-  url: https://www.eventbrite.com/blog/closing-down-our-older-version-of-creating-events/
-  domain: www.eventbrite.com
-  image: ""
-- curated_id: c94c123d789126b170cced865a0652c6
-  item_date: "2013-10-01 00:00:00"
-  title: Start Migrating to v2 of the Content API, Deprecating v1 in December
-  url: https://blog.box.com/blog/start-migrating-to-v2-of-the-content-api-deprecating-v1-in-december/
-  domain: blog.box.com
-  image: ""
-- curated_id: 0db618de315fa4f32ff1904dbaebb4ec
-  item_date: "2013-10-28 00:00:00"
-  title: AdWords API v201302 Sunset - 2 weeks remaining
-  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/6843712868948802600/v=2
-  domain: www.blogger.com
-  image: ""
-- curated_id: 10b0c8d2c1021f8ee081e7d6891eb62d
-  item_date: "2013-12-06 00:00:00"
-  title: One Week Until the Deadline for Deprecating v1 of the API
-  url: https://blog.box.com/blog/one-week-until-the-deadline-for-deprecating-v1-of-the-api/
-  domain: blog.box.com
-  image: ""
-- curated_id: 43eea4bd1e505ba182541f2cca757c01
-  item_date: "2014-02-03 00:00:00"
-  title: Deprecation of Spotify Apps API 0.x
-  url: https://developer.spotify.com/news-stories/2014/02/03/deprecation-of-spotify-apps-api-0-x/
-  domain: developer.spotify.com
-  image: ""
-- curated_id: f1ae9e18b377cb740e2f1bfaa54eceae
-  item_date: "2014-03-04 00:00:00"
-  title: 'YouTube Engineering and Developers Blog: Committing to the YouTube Data
-    API v3'
-  url: http://youtube-eng.blogspot.com/2014/03/committing-to-youtube-data-api-v3_4.html
-  domain: youtube-eng.blogspot.com
-  image: ""
-- curated_id: 35bd308e1ccc7a28bd66e59fd7ec5a19
-  item_date: "2014-05-29 00:00:00"
-  title: Legacy AdMob Sunset and Legacy SDK Deprecation Reminder
-  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/8254169381649273717
-  domain: www.blogger.com
-  image: ""
-- curated_id: 6eaabf2526ed4349a9d5e3f71c5f589d
-  item_date: "2014-06-13 00:00:00"
-  title: Retiring the Netflix Public API
-  url: http://developer.netflix.com/blog/read/Retiring_the_Netflix_Public_API
-  domain: developer.netflix.com
-  image: ""
-- curated_id: 189a2f2e85bb5c8243c41b998b43cc04
-  item_date: "2014-06-13 00:00:00"
-  title: Netflix will close its public API to some developers in November
-  url: http://www.theverge.com/2014/6/13/5808424/netflix-will-close-its-public-api-to-some-developers-in-november
-  domain: www.theverge.com
-  image: ""
-- curated_id: d36c15aec44cc1d5f327aaf5e908aa78
-  item_date: "2014-06-17 16:31:06"
-  title: Even Non-Nerds Should Care That Netflix Broke Up With Developers - Atlantic
-    Mobile
-  url: http://www.theatlantic.com/technology/archive/2014/06/even-non-nerds-should-care-that-netflix-just-broke-up-with-developers/372926/
-  domain: www.theatlantic.com
-  image: ""
-- curated_id: ddd3098c78e8a05b8271c698ec6de16f
-  item_date: "2014-06-18 00:00:00"
-  title: 'Netflix Goes Private: Is This the End of the Public API Golden Age? And...'
-  url: https://dzone.com/articles/netflix-goes-private-end
-  domain: dzone.com
-  image: ""
-- curated_id: 0ad22a143a2c1ac671b180c4213037e8
-  item_date: "2014-06-18 00:00:00"
-  title: Why You Should Care Netflix is Shuttering Its Public API
-  url: http://blogs.mulesoft.com/biz/api/netflix-public-api-shutdown/
-  domain: blogs.mulesoft.com
-  image: ""
-- curated_id: b23ff6f711e4cff94d7545b8f08b2dee
-  item_date: "2014-06-18 03:31:07"
-  title: 'Connecting SOA to the Cloud: Netflix goes Private: Is this the end of the
-    Public API golden age? And is that a bad thing?'
-  url: https://accounts.google.com/ServiceLogin
-  domain: accounts.google.com
-  image: ""
-- curated_id: fdd7edde65f44d417750a63873fdb3dc
-  item_date: "2014-06-20 00:00:00"
-  title: Even Non-nerds Should Care That Netflix Broke Up With Developers
-  url: https://drhiphop85.com/2014/06/20/even-non-nerds-should-care-that-netflix-broke-up-with-developers/
-  domain: drhiphop85.com
-  image: ""
-- curated_id: 25e2d1b77201d4373d3d0ce9265a465f
-  item_date: "2014-06-24 00:00:00"
-  title: ""
-  url: http://blog.svpply.com/post/89786340314
-  domain: blog.svpply.com
-  image: ""
-- curated_id: 9878b109573009994ec56145bb2bf29d
-  item_date: "2014-08-07 14:30:10"
-  title: 'ESPN Developer Center : Public API Retirement'
-  url: http://espn.go.com/apis/devcenter/
-  domain: espn.go.com
-  image: ""
-- curated_id: 481cc63a68d44542abf4ebb342d9adfd
-  item_date: "2014-08-11 00:00:00"
-  title: Sunset for the FT Press API
-  url: http://developer.pearson.com/blog/sunset-ft-press-api
-  domain: developer.pearson.com
-  image: ""
-- curated_id: c3f0cb6fb4824542c397932687a8c50f
-  item_date: "2014-08-12 00:00:00"
-  title: Legacy Ads Python Client Library to sunset on January 5th, 2015
-  url: https://www.blogger.com/feeds/7815614485808579332/posts/default/353616053780143715
-  domain: www.blogger.com
-  image: ""
-- curated_id: eea6d27c35111d0c62288d1fd25d052d
-  item_date: "2014-10-27 00:00:00"
-  title: Google Calendar API v1 and v2 to Shut Down Nov 17
-  url: http://www.programmableweb.com/news/google-calendar-api-v1-and-v2-to-shut-down-nov-17/2014/10/27
-  domain: www.programmableweb.com
-  image: ""
-- curated_id: 8695024c001cf063a2588335c74158ad
-  item_date: "2014-12-19 00:00:00"
-  title: 18 Month Timeline to Discontinue QuickBooks Online v2 REST API
-  url: https://developer.intuit.com/hub/blog/2014/12/19/18-month-timeline-to-discontinue-quickbooks-online-v2-rest-api
-  domain: developer.intuit.com
-  image: ""
 - curated_id: 4ec9b4414ac045c83b62450c419efd3b
   item_date: "2015-02-19 00:00:00"
   title: Retiring the Email Migration API
@@ -255,16 +23,16 @@
   url: http://www.programmableweb.com/news/google-shutting-down-old-webmaster-tools-api-april-20/2015/03/16
   domain: www.programmableweb.com
   image: ""
-- curated_id: 8b8e64d0914e8786550135a06219c1de
-  item_date: "2015-03-27 15:25:44"
-  title: Data Deprecation Policy for Google Analytics APIs
-  url: https://developers.google.com/analytics/devguides/reporting/core/v2/data-deprecation
-  domain: developers.google.com
-  image: ""
 - curated_id: a8e4624f4ca22783c329b3c23fb60537
   item_date: "2015-03-27 15:25:44"
   title: Deprecation Schedule - Doubleclick for Publishers ? Google Developers
   url: https://developers.google.com/doubleclick-publishers/docs/deprecation
+  domain: developers.google.com
+  image: ""
+- curated_id: 8b8e64d0914e8786550135a06219c1de
+  item_date: "2015-03-27 15:25:44"
+  title: Data Deprecation Policy for Google Analytics APIs
+  url: https://developers.google.com/analytics/devguides/reporting/core/v2/data-deprecation
   domain: developers.google.com
   image: ""
 - curated_id: 3476f6b393c7a035649131b3ff069c1a
@@ -309,17 +77,17 @@
   url: http://youtube-eng.blogspot.com/2015/04/bye-bye-youtube-data-api-v2.html
   domain: youtube-eng.blogspot.com
   image: ""
-- curated_id: 8efba5292199c0e3aab6ec6778c1e3ac
-  item_date: "2015-04-23 00:00:00"
-  title: 'API Lifecycle Retirement Stage: A History of Major Public API Retirements'
-  url: http://nordicapis.com/api-lifecycle-retirement-stage-a-history-of-major-public-api-retirements/
-  domain: nordicapis.com
-  image: ""
 - curated_id: 83a5ef541e3a40bcc7a05e8cd296622b
   item_date: "2015-04-23 00:00:00"
   title: 'Announcement: Facebook Deprecates API v1.0 on April 30th'
   url: https://developer.amazon.com/appsandservices/community/post/TxTORRXOM8UG9G/Announcement-Facebook-Deprecates-API-v1-0-on-April-30th
   domain: developer.amazon.com
+  image: ""
+- curated_id: 8efba5292199c0e3aab6ec6778c1e3ac
+  item_date: "2015-04-23 00:00:00"
+  title: 'API Lifecycle Retirement Stage: A History of Major Public API Retirements'
+  url: http://nordicapis.com/api-lifecycle-retirement-stage-a-history-of-major-public-api-retirements/
+  domain: nordicapis.com
   image: ""
 - curated_id: 0f8f1e1234ad1f79707c0305ea6110ac
   item_date: "2015-04-28 00:00:00"
@@ -358,18 +126,18 @@
   url: http://venturebeat.com/2015/06/04/yahoo-announces-plans-to-kill-maps-pipes-geoplanet-and-placespotter-apis-and-market-specific-properties/
   domain: venturebeat.com
   image: ""
-- curated_id: ae93c51e5a8d783b73f90b63c7c0bbc9
-  item_date: "2015-06-04 00:00:00"
-  title: Yahoo Pipes Retires?
-  url: http://blog.ouseful.info/2015/06/04/yahoo-pipes-retires/
-  domain: blog.ouseful.info
-  image: ""
 - curated_id: a454deb768b9f5edc1862df1d6ac42dd
   item_date: "2015-06-04 00:00:00"
   title: Yahoo kills a product that was once called a milestone in the history of
     the internet
   url: http://www.businessinsider.com/yahoo-kills-pipes-maps-other-products-2015-6
   domain: www.businessinsider.com
+  image: ""
+- curated_id: ae93c51e5a8d783b73f90b63c7c0bbc9
+  item_date: "2015-06-04 00:00:00"
+  title: Yahoo Pipes Retires?
+  url: http://blog.ouseful.info/2015/06/04/yahoo-pipes-retires/
+  domain: blog.ouseful.info
   image: ""
 - curated_id: 68715cc6aac36882b9d1ef734025b21b
   item_date: "2015-06-04 00:00:00"
@@ -488,17 +256,17 @@
   url: https://cloudmine.me/2016/01/parse-is-shutting-down/
   domain: cloudmine.me
   image: ""
-- curated_id: d2edd012c860f2a802b28485fe2e14a9
-  item_date: "2016-01-29 00:00:00"
-  title: Google Maps Engine API Shuts Down Today (January 29, 2016)
-  url: http://www.giscloud.com/blog/google-maps-engine-api-shuts-down-today-january-29-2016/
-  domain: www.giscloud.com
-  image: ""
 - curated_id: 434ec8ef235f40818f888c999b479028
   item_date: "2016-01-29 00:00:00"
   title: Parse will Shut Down their Service
   url: http://www.infoq.com/news/2016/01/parse-dbaas-shutdown
   domain: www.infoq.com
+  image: ""
+- curated_id: d2edd012c860f2a802b28485fe2e14a9
+  item_date: "2016-01-29 00:00:00"
+  title: Google Maps Engine API Shuts Down Today (January 29, 2016)
+  url: http://www.giscloud.com/blog/google-maps-engine-api-shuts-down-today-january-29-2016/
+  domain: www.giscloud.com
   image: ""
 - curated_id: 5b057f0f2582ab451e9147a33e1c20f2
   item_date: "2016-01-30 00:00:00"
@@ -537,16 +305,16 @@
   url: https://azure.microsoft.com/en-us/blog/azure-welcomes-parse-developers/
   domain: azure.microsoft.com
   image: ""
-- curated_id: cf44517a6a9a436927a4047eaa274ca2
-  item_date: "2016-02-02 00:00:00"
-  title: Parse Shutdown Lessons
-  url: https://dzone.com/articles/parse-shutdown-lessons
-  domain: dzone.com
-  image: ""
 - curated_id: 3e62817c458807ba3c84041c7036e388
   item_date: "2016-02-02 00:00:00"
   title: Parse Drops the BaaS
   url: https://dzone.com/articles/parse-drops-the-baas
+  domain: dzone.com
+  image: ""
+- curated_id: cf44517a6a9a436927a4047eaa274ca2
+  item_date: "2016-02-02 00:00:00"
+  title: Parse Shutdown Lessons
+  url: https://dzone.com/articles/parse-shutdown-lessons
   domain: dzone.com
   image: ""
 - curated_id: 8005c124c8ba75a67c0e54f57664d674
@@ -567,17 +335,17 @@
   url: https://dzone.com/articles/migrating-from-parse-to-couchbase-mobile
   domain: dzone.com
   image: ""
-- curated_id: 96add15ee281c1afc6b61d14fb84e034
-  item_date: "2016-02-03 00:00:00"
-  title: The No-Bullshit Take on MBaaS and our Offer to the Parse Community
-  url: https://www.built.io/blog/2016/02/the-no-bullshit-take-on-mbaas-and-our-offer-to-the-parse-community/
-  domain: www.built.io
-  image: ""
 - curated_id: b11eb66fa76bd0d1a5ef3dad0edeaea1
   item_date: "2016-02-03 00:00:00"
   title: The Right Things to Think About Before Migrating from Parse
   url: http://www.kinvey.com/blog/4424/the-right-things-to-think-about-before-migrating-from-parse
   domain: www.kinvey.com
+  image: ""
+- curated_id: 96add15ee281c1afc6b61d14fb84e034
+  item_date: "2016-02-03 00:00:00"
+  title: The No-Bullshit Take on MBaaS and our Offer to the Parse Community
+  url: https://www.built.io/blog/2016/02/the-no-bullshit-take-on-mbaas-and-our-offer-to-the-parse-community/
+  domain: www.built.io
   image: ""
 - curated_id: cbd6bf0fdc634f8f261c3425e4817cb2
   item_date: "2016-02-05 00:00:00"
@@ -651,18 +419,18 @@
   url: http://thenextweb.com/dd/2016/03/11/yahoo-killing-off-products-sidelining-search-access-developers/
   domain: thenextweb.com
   image: ""
-- curated_id: 31d23d6ffa13a3a912e430406b082cca
-  item_date: "2016-03-14 00:00:00"
-  title: itDuzzit Shutting Down
-  url: http://www.itduzzit.com/home/2016/03/15/itduzzit-shutting-down/
-  domain: www.itduzzit.com
-  image: ""
 - curated_id: 7d649bf86ca90370eafcd00825c29ea1
   item_date: "2016-03-14 00:00:00"
   title: While I Will Miss Parse, I Wish Every Service That Shutdown Left Behind The
     Same Page
   url: https://dzone.com/articles/i-wish-every-shutdown-service-left-behind-the-same
   domain: dzone.com
+  image: ""
+- curated_id: 31d23d6ffa13a3a912e430406b082cca
+  item_date: "2016-03-14 00:00:00"
+  title: itDuzzit Shutting Down
+  url: http://www.itduzzit.com/home/2016/03/15/itduzzit-shutting-down/
+  domain: www.itduzzit.com
   image: ""
 - curated_id: 1192d37185f7b6712382e73e404284e7
   item_date: "2016-03-25 00:00:00"
@@ -731,17 +499,17 @@
   url: http://blog.developer.bazaarvoice.com/2016/04/27/conversations-api-deprecation-for-versions-5-2-and-5-3/
   domain: blog.developer.bazaarvoice.com
   image: ""
-- curated_id: 1d32904a91da0867c23c6b85209b278a
-  item_date: "2016-04-29 00:00:00"
-  title: PAYMILL?s Strategic Insolvency. Here?s What You Need To Know
-  url: https://blog.paymill.com/paymills-strategic-insolvency-heres-need-know/
-  domain: blog.paymill.com
-  image: ""
 - curated_id: bf9e984bfa17a168ef74c3112c24d533
   item_date: "2016-04-29 00:00:00"
   title: Twitter killed Magic Recs, the only useful bot there is
   url: http://thenextweb.com/socialmedia/2016/04/29/twitter-kills-magic-recs/
   domain: thenextweb.com
+  image: ""
+- curated_id: 1d32904a91da0867c23c6b85209b278a
+  item_date: "2016-04-29 00:00:00"
+  title: PAYMILL?s Strategic Insolvency. Here?s What You Need To Know
+  url: https://blog.paymill.com/paymills-strategic-insolvency-heres-need-know/
+  domain: blog.paymill.com
   image: ""
 - curated_id: 9251fb41926a4eb9acb3b8438ed318df
   item_date: "2016-05-06 00:00:00"
@@ -791,17 +559,17 @@
   url: https://cloudrail.com/dropbox-api-v1-deprecated-upgrade-cloudrail/
   domain: cloudrail.com
   image: ""
-- curated_id: 24d6aa03b65b277089b8c27e6bb74a62
-  item_date: "2016-06-30 00:00:00"
-  title: DoubleClick Ad Exchange Seller API sunsets
-  url: http://googleadsdeveloper.blogspot.com/2016/06/doubleclick-ad-exchange-seller-api.html
-  domain: googleadsdeveloper.blogspot.com
-  image: ""
 - curated_id: 95796cfaa8365aadcbdf76aaa2221115
   item_date: "2016-06-30 00:00:00"
   title: Dropbox API v1 Now Deprecated
   url: http://www.programmableweb.com/news/dropbox-api-v1-now-deprecated/brief/2016/06/30
   domain: www.programmableweb.com
+  image: ""
+- curated_id: 24d6aa03b65b277089b8c27e6bb74a62
+  item_date: "2016-06-30 00:00:00"
+  title: DoubleClick Ad Exchange Seller API sunsets
+  url: http://googleadsdeveloper.blogspot.com/2016/06/doubleclick-ad-exchange-seller-api.html
+  domain: googleadsdeveloper.blogspot.com
   image: ""
 - curated_id: 0e58b9bb01d2edc6e4f44cba3591553b
   item_date: "2016-07-01 00:00:00"
@@ -877,28 +645,28 @@
   url: http://blog.pogoplug.com/pogoplug-cloud-is-shutting-down-3511/
   domain: blog.pogoplug.com
   image: ""
-- curated_id: 591e0a8f524690dcc1709c53ba969c4d
-  item_date: "2016-09-28 00:00:00"
-  title: Shutter falls on life-logging camera start-up Narrative
-  url: http://www.bbc.co.uk/news/technology-37497900
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: 94569a7ba630736d3cb35e27b0226439
   item_date: "2016-09-28 00:00:00"
   title: Readability Sunset
   url: http://blog.netvibes.com/blog/readability-sunset/
   domain: blog.netvibes.com
   image: ""
-- curated_id: 697bae888d521158a4f6173d7899895f
-  item_date: "2016-09-29 00:00:00"
-  title: 'Reminder: Turn down of Google Drive web hosting coming soon'
-  url: https://gsuite-developers.googleblog.com/2016/07/reminder-turn-down-of-google-drive-web.html
-  domain: gsuite-developers.googleblog.com
+- curated_id: 591e0a8f524690dcc1709c53ba969c4d
+  item_date: "2016-09-28 00:00:00"
+  title: Shutter falls on life-logging camera start-up Narrative
+  url: http://www.bbc.co.uk/news/technology-37497900
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 34e55426816540f7aaaf72811f8fc4cb
   item_date: "2016-09-29 00:00:00"
   title: 'Saying goodbye to OAuth 1.0 (2LO) '
   url: https://gsuite-developers.googleblog.com/2016/04/saying-goodbye-to-oauth-10-2lo.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: 697bae888d521158a4f6173d7899895f
+  item_date: "2016-09-29 00:00:00"
+  title: 'Reminder: Turn down of Google Drive web hosting coming soon'
+  url: https://gsuite-developers.googleblog.com/2016/07/reminder-turn-down-of-google-drive-web.html
   domain: gsuite-developers.googleblog.com
   image: ""
 - curated_id: c4b4da27d56f48e1dd6e6116acc5f33f
@@ -955,5 +723,182 @@
   title: Google to Discontinue Map Maker
   url: http://www.pcmag.com/news/349437/google-to-discontinue-map-maker
   domain: www.pcmag.com
+  image: ""
+- curated_id: e9ac57ae9eb68cec67031789d40059f4
+  item_date: "2016-12-13 00:00:00"
+  title: Important changes coming to the BandPage service
+  url: https://blog.bandpage.com/2016/12/13/important-changes-coming-to-the-bandpage-service/
+  domain: blog.bandpage.com
+  image: ""
+- curated_id: fd6d032667e6029d1240bcd120ce6e87
+  item_date: "2017-01-04 00:00:00"
+  title: Order API v1-v2 grace period started
+  url: https://developers.bol.com/nieuws/plaza-api/nieuws/order-api-v1-v2-grace-period-started/
+  domain: developers.bol.com
+  image: ""
+- curated_id: 0966c50c01788a79c945b19b48aae2b2
+  item_date: "2017-01-06 14:52:08"
+  title: Google Hangouts API gets hung out to dry | TechCrunch
+  url: https://techcrunch.com/2017/01/06/hangouts-api-shut-down/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3ff27d5579e14269d6a971c7f461ddca
+  item_date: "2017-01-10 00:00:00"
+  title: Google to Shutter Hangouts API as It Refocuses on the Enterprise
+  url: https://www.programmableweb.com/news/google-to-shutter-hangouts-api-it-refocuses-enterprise/2017/01/10
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 41de6a20b2e5d7431482847aeb808940
+  item_date: "2017-01-10 00:00:00"
+  title: Cisco announces End-of-Sale and End-of-Life Announcement for the Cisco...
+  url: http://itknowledgeexchange.techtarget.com/network-technologies/cisco-announces-end-sale-end-life-announcement-cisco-secure-access-control-system/
+  domain: itknowledgeexchange.techtarget.com
+  image: ""
+- curated_id: 4dc26b08a6b9867c25103b8c3a8a1a94
+  item_date: "2017-01-11 00:00:00"
+  title: "In a world first, Norway is starting to switch off FM radio today \u2014\_even
+    though most citizens are dead against it"
+  url: http://www.businessinsider.com/norway-starts-switching-off-fm-radio-wednesday-public-opposition-2017-1
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: c52806311a4de7200bd0709eaba3b33f
+  item_date: "2017-01-17 00:00:00"
+  title: Twitter loops all videos under 6.5 seconds as Vine shrivels into a camera
+  url: https://techcrunch.com/2017/01/17/tvine/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3858aba425572fe9973cd2374e5ff8a3
+  item_date: "2017-01-17 00:00:00"
+  title: "Twitter is phasing out the \u201CBuy\u201D button, will continue to offer
+    donations"
+  url: https://techcrunch.com/2017/01/17/bye-buy-on-twitter/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a4c6800c02e2f57809f8fb76793c0630
+  item_date: "2017-01-19 00:00:00"
+  title: Best Practices with API Deprecation
+  url: http://blog.smartbear.com/software-quality/best-practices-with-api-deprecation/
+  domain: blog.smartbear.com
+  image: ""
+- curated_id: e7315ae3c34dc093f134004077799c7c
+  item_date: "2017-01-30 00:00:00"
+  title: A Parse Shutdown Reminder
+  url: http://blog.parse.com/announcements/a-parse-shutdown-reminder/
+  domain: blog.parse.com
+  image: ""
+- curated_id: 88681766a2be8ed440427eaec5762e7e
+  item_date: "2017-01-31 00:00:00"
+  title: Parse Officially Shuts Down
+  url: https://www.programmableweb.com/news/parse-officially-shuts-down/brief/2017/01/31
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dc153963cb28b1156f003cf8c4078ffe
+  item_date: "2017-01-31 00:00:00"
+  title: Coin will shut down its product services at the end of February
+  url: https://techcrunch.com/2017/01/31/coin-shut-down/
+  domain: techcrunch.com
+  image: ""
+- curated_id: f5fab90649222f75862d12af92b4e21c
+  item_date: "2017-02-09 00:00:00"
+  title: 'Email: Please acknowledge Dropbox API v1 deprecation'
+  url: https://cloudrail.com/email-please-acknowledge-dropbox-api-v1-deprecation/
+  domain: cloudrail.com
+  image: ""
+- curated_id: 43d6b3ca8d6e39664494f58b68d18f53
+  item_date: "2017-02-22 00:00:00"
+  title: Yelp Updates Fusion API, Signals the End of Legacy API
+  url: https://www.programmableweb.com/news/yelp-updates-fusion-api-signals-end-legacy-api/brief/2017/02/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 824a3277577ffb0a278591534d5f3ee7
+  item_date: "2017-02-28 00:00:00"
+  title: Google IMA Ends Flash in 2017
+  url: https://www.jwplayer.com/blog/no-more-flash-ima/
+  domain: www.jwplayer.com
+  image: ""
+- curated_id: bf263bc0aa8bd5f064aa19ef88ce3073
+  item_date: "2017-03-02 00:00:00"
+  title: Deprecating Flash in the IMA SDKs
+  url: http://googleadsdeveloper.blogspot.com/2017/01/deprecating-flash-in-ima-sdks.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 0b6c45894fe346a34113691d0ea5a467
+  item_date: "2017-03-02 00:00:00"
+  title: DCM/DFA Reporting and Trafficking API sunset reminder
+  url: http://googleadsdeveloper.blogspot.com/2017/02/dcmdfa-reporting-and-trafficking-api.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 75ffd7c06b4847b8521544edfb52fb7f
+  item_date: "2017-03-02 00:00:00"
+  title: Final days for migrating AdWords ads from Flash to HTML5
+  url: http://googleadsdeveloper.blogspot.com/2016/12/final-days-for-migrating-adwords-ads.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-03-06 10:01:53"
+  title: "Discontinuing Support for Clef \u2013 Two Factor Authenticity"
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 260e5de6b6675e193318a62ac5daf304
+  item_date: "2017-03-08 00:00:00"
+  title: Important changes to the BandPage service
+  url: https://blog.bandpage.com/2017/03/08/important-changes-to-the-bandpage-service/
+  domain: blog.bandpage.com
+  image: ""
+- curated_id: adc9e4c404606d5715135ca4a55c0d79
+  item_date: "2017-03-24 00:00:00"
+  title: 'RIP AlchemyAPI: What to consider before migrating to Watson'
+  url: http://blog.aylien.com/alchemyapi-migration-to-watson/
+  domain: blog.aylien.com
+  image: ""
+- curated_id: 481d9f1bde3abcd60c36ecef3ab8db72
+  item_date: "2017-04-05 00:00:00"
+  title: Sunset of DFP API v201605
+  url: http://googleadsdeveloper.blogspot.com/2017/04/sunset-of-dfp-api-v201605.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: 84b1c5adc81d4d745d3f75530873e395
+  item_date: "2017-04-12 00:00:00"
+  title: What Organizations Need to Know When Deprecating APIs
+  url: https://dzone.com/articles/what-organizations-need-to-know-when-deprecating-a
+  domain: dzone.com
+  image: ""
+- curated_id: 07db89df423fa894eaeae0b0d58e01a9
+  item_date: "2017-04-26 00:00:00"
+  title: Google Is Killing Gchat For Good and We Have Feelings
+  url: https://motherboard.vice.com/en_us/article/gchat-good-google-hangouts-bad
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 073413e805b8b1588bb62b6366206b2f
+  item_date: "2017-04-28 00:00:00"
+  title: Thank You, Yakkers
+  url: http://blog.yikyak.com/blog/thank-you-yakkers
+  domain: blog.yikyak.com
+  image: ""
+- curated_id: a031ce18a17c09e6da9c29454534c7d6
+  item_date: "2017-04-28 00:00:00"
+  title: Why Did Spotify Discontinue Their Referral Program?
+  url: https://www.referralcandy.com/blog/spotify-referral-program/
+  domain: www.referralcandy.com
+  image: ""
+- curated_id: 9f946cd3b384b218e805ad9ca4e3146a
+  item_date: "2017-04-28 04:59:12"
+  title: The Sunset HTTP Header
+  url: https://tools.ietf.org/html/draft-wilde-sunset-header
+  domain: tools.ietf.org
+  image: ""
+- curated_id: b653ed9a61ba6de44da45798fb09865f
+  item_date: "2017-04-28 04:59:12"
+  title: Nothing Lasts Forever (and some things disappear according to a schedule)
+    - dretblog
+  url: http://dret.typepad.com/dretblog/2015/08/http-sunset-header.html
+  domain: dret.typepad.com
+  image: ""
+- curated_id: d892ba37f1216659f794f3ba7ebec947
+  item_date: "2017-05-08 00:00:00"
+  title: Pay your respects to dead tech companies at the Startup Graveyard
+  url: https://thenextweb.com/insider/2017/05/08/pay-respects-dead-tech-companies-startup-graveyard/
+  domain: thenextweb.com
   image: ""
 ...
