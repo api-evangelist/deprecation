@@ -1,0 +1,77 @@
+name: API Deprecation Rules
+description: Rules for managing API deprecation, sunset, and end-of-life lifecycle events.
+version: 1.0.0
+created: 2026-04-28
+modified: 2026-04-28
+rules:
+  - id: DEPR-001
+    name: Announce Deprecation Before Sunset
+    severity: error
+    description: Publish a deprecation announcement before scheduling any sunset or shutdown date.
+    rationale: Consumers require lead time to migrate; surprise removals damage trust.
+
+  - id: DEPR-002
+    name: Emit Deprecation Header
+    severity: warning
+    description: Set the Deprecation HTTP response header (RFC draft) on all deprecated resources.
+    rationale: Clients and gateways can automatically detect deprecation without scraping documentation.
+
+  - id: DEPR-003
+    name: Emit Sunset Header
+    severity: error
+    description: Set the Sunset HTTP response header (RFC 8594) once a removal date has been committed.
+    rationale: Sunset communicates a machine-readable retirement timestamp.
+
+  - id: DEPR-004
+    name: Provide Sunset Link Relation
+    severity: warning
+    description: Include a Link header with rel="sunset" pointing to migration documentation.
+    rationale: Clients should be able to discover migration guidance directly from the response.
+
+  - id: DEPR-005
+    name: Document Migration Path
+    severity: error
+    description: Every deprecation must reference the replacement endpoint, version, or pattern.
+    rationale: Deprecation without a migration path strands consumers.
+
+  - id: DEPR-006
+    name: Minimum Deprecation Window
+    severity: warning
+    description: Allow at least six months between deprecation announcement and the sunset date for public APIs.
+    rationale: Public consumers operate on quarterly or longer change cycles.
+
+  - id: DEPR-007
+    name: Communicate Through Multiple Channels
+    severity: warning
+    description: Notify consumers through changelog, email, status page, and developer portal in addition to headers.
+    rationale: A single channel will miss segments of the audience.
+
+  - id: DEPR-008
+    name: Track Consumption Before Removal
+    severity: warning
+    description: Monitor traffic to deprecated resources and contact remaining heavy users before sunset.
+    rationale: Active consumers may have missed prior notice and need direct outreach.
+
+  - id: DEPR-009
+    name: Prefer 410 Gone After Sunset
+    severity: info
+    description: Return 410 Gone (not 404) for resources that have been intentionally retired.
+    rationale: 410 conveys deliberate removal, helping clients distinguish retirement from accidental misrouting.
+
+  - id: DEPR-010
+    name: Mark Deprecated Fields in OpenAPI
+    severity: error
+    description: Set deprecated:true on operations, parameters, and schema properties slated for removal.
+    rationale: Specification-driven tooling and SDK generators rely on the deprecated flag.
+
+  - id: DEPR-011
+    name: Version-Level vs Endpoint-Level Deprecation
+    severity: info
+    description: Distinguish between deprecating an entire API version and deprecating individual resources.
+    rationale: Scope of change drives messaging, headers, and client impact.
+
+  - id: DEPR-012
+    name: Publish a Deprecation Policy
+    severity: warning
+    description: Maintain a documented, public deprecation policy covering notice periods and channels.
+    rationale: Predictable policy lets consumers plan and budget for change.

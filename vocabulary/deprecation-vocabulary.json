@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "@vocab": "https://raw.githubusercontent.com/api-evangelist/deprecation/main/vocabulary/deprecation-vocabulary.json#",
+    "schema": "https://schema.org/"
+  },
+  "name": "API Deprecation Vocabulary",
+  "description": "Controlled vocabulary for API deprecation, sunset, and end-of-life management.",
+  "version": "1.0.0",
+  "terms": [
+    {
+      "term": "Deprecation",
+      "definition": "Status indicating that an API surface remains operational but is no longer the preferred option and is scheduled for retirement."
+    },
+    {
+      "term": "Sunset",
+      "definition": "A committed retirement date after which an API surface will no longer be available."
+    },
+    {
+      "term": "EndOfLife",
+      "definition": "The point at which an API surface is no longer supported, served, or patched."
+    },
+    {
+      "term": "DeprecationHeader",
+      "definition": "HTTP response header signaling that the requested resource is deprecated."
+    },
+    {
+      "term": "SunsetHeader",
+      "definition": "HTTP response header (RFC 8594) carrying an HTTP-date timestamp for resource retirement."
+    },
+    {
+      "term": "SunsetLinkRelation",
+      "definition": "Link relation type 'sunset' connecting a resource to documentation about its retirement."
+    },
+    {
+      "term": "SuccessorVersion",
+      "definition": "Replacement endpoint, version, or representation that consumers should migrate to."
+    },
+    {
+      "term": "MigrationPath",
+      "definition": "Documented procedure consumers follow to move from the deprecated surface to its replacement."
+    },
+    {
+      "term": "DeprecationPolicy",
+      "definition": "Published rules describing notice periods, communication channels, and lifecycle stages for deprecation."
+    },
+    {
+      "term": "GoneStatus",
+      "definition": "HTTP 410 status used to indicate that a previously available resource has been intentionally retired."
+    },
+    {
+      "term": "Retirement",
+      "definition": "The act of removing an API surface from production after its sunset date."
+    },
+    {
+      "term": "DeprecationAnnouncement",
+      "definition": "Public communication declaring that an API surface is now deprecated."
+    },
+    {
+      "term": "ConsumerOutreach",
+      "definition": "Direct contact with identified consumers of a deprecated surface to confirm migration plans."
+    },
+    {
+      "term": "DeprecationWindow",
+      "definition": "Time period between the deprecation announcement and the sunset date during which consumers must migrate."
+    },
+    {
+      "term": "VersionDeprecation",
+      "definition": "Deprecation that applies to an entire API version rather than individual resources."
+    },
+    {
+      "term": "ResourceDeprecation",
+      "definition": "Deprecation scoped to a single endpoint, parameter, field, or schema property."
+    }
+  ]
+}
