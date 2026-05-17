@@ -37,7 +37,7 @@ apis:
       - type: Vocabulary
         url: >-
           https://raw.githubusercontent.com/api-evangelist/deprecation/main/vocabulary/deprecation-vocabulary.json
-      - type: JSON-LD
+      - type: JSONLD
         url: >-
           https://raw.githubusercontent.com/api-evangelist/deprecation/main/json-ld/deprecation.jsonld
 common:
@@ -45,7 +45,7 @@ common:
     url: https://www.rfc-editor.org/rfc/rfc8594.html
   - type: Reference
     url: https://datatracker.ietf.org/doc/draft-ietf-httpapi-deprecation-header/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/api-evangelist
 maintainers:
   - FN: Kin Lane
