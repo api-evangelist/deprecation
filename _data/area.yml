@@ -1,0 +1,19 @@
+meta:
+  name: Deprecation
+  description: API deprecation, sunset headers, end-of-life management, and API retirement
+    practices, including RFC 8594 Sunset, the Deprecation header, OpenAPI deprecation
+    flags, and consumer migration patterns.
+  tags:
+  - API Retirement
+  - Deprecation
+  - End of Life
+  - Sunset
+  - Lifecycle
+  - Migration
+  portal: null
+  github: https://github.com/api-evangelist
+  repo: deprecation
+services_tools: []
+features: []
+use_cases: []
+integrations: []

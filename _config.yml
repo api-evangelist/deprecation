@@ -1,0 +1,18 @@
+title: Deprecation
+description: API deprecation, sunset headers, end-of-life management, and API retirement
+  practices, including RFC 8594 Sunset, the Deprecation header, OpenAPI deprecation
+  flags, and consumer migration patterns.
+url: https://deprecation.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary
