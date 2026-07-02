@@ -1,0 +1,26 @@
+related:
+- name: Versioning
+  url: https://versioning.apievangelist.com
+  icon: https://versioning.apievangelist.com/icon.png
+  description: An index and topic collection covering API versioning patterns, schema evolution, and breaking-change
+    detection across the API lifecycle. API versioning communicates change to…
+- name: Migration
+  url: https://migration.apievangelist.com
+  icon: https://migration.apievangelist.com/icon.png
+  description: An index and topic collection covering data migration, cloud migration, database migration,
+    and API migration platforms and services. Migration platforms help organizations move…
+- name: Management
+  url: https://management.apievangelist.com
+  icon: https://management.apievangelist.com/icon.png
+  description: An index and topic collection covering full-stack API management platforms — solutions
+    that combine an API gateway, developer portal, analytics, monetization, governance, and…
+- name: Encryption
+  url: https://encryption.apievangelist.com
+  icon: https://encryption.apievangelist.com/icon.png
+  description: An index and topic collection covering encryption services, key management systems (KMS),
+    hardware security modules (HSM), envelope encryption, end-to-end encryption SDKs,…
+- name: Change Log
+  url: https://change-log.apievangelist.com
+  icon: https://change-log.apievangelist.com/icon.png
+  description: An index and topic collection covering developer changelog publishing, release-notes platforms,
+    and API change-tracking services. Change Log services help product, engineering,…
