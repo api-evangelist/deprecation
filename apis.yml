@@ -1,5 +1,6 @@
 aid: deprecation
 name: Deprecation
+kind: topic
 description: >-
   API deprecation, sunset headers, end-of-life management, and API retirement
   practices, including RFC 8594 Sunset, the Deprecation header, OpenAPI
